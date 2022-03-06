@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x00248228a9eA72FF28D94F87FcBAc243E8Dbf7fc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x00248228a9ea72ff28d94f87fcbac243e8dbf7fc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Imaginary Ones",
+  "SYMBOL": "IMYONE",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
